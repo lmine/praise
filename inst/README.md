@@ -57,6 +57,7 @@ praise("${Exclamation}! ${EXCLAMATION}!-${EXCLAMATION}! This is just ${adjective
 #> [1] "Yowza! MMHM!-YAHOO! This is just praiseworthy!"
 ```
 
+
 Currently supported parts of speech:
 
 
